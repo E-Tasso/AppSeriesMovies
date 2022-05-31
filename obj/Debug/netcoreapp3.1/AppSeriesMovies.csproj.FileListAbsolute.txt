@@ -1,0 +1,14 @@
+C:\Dio\AppSeriesMovies\obj\Debug\netcoreapp3.1\AppSeriesMovies.csproj.AssemblyReference.cache
+C:\Dio\AppSeriesMovies\obj\Debug\netcoreapp3.1\AppSeriesMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\AppSeriesMovies\obj\Debug\netcoreapp3.1\AppSeriesMovies.AssemblyInfoInputs.cache
+C:\Dio\AppSeriesMovies\obj\Debug\netcoreapp3.1\AppSeriesMovies.AssemblyInfo.cs
+C:\Dio\AppSeriesMovies\obj\Debug\netcoreapp3.1\AppSeriesMovies.csproj.CoreCompileInputs.cache
+C:\Dio\AppSeriesMovies\bin\Debug\netcoreapp3.1\AppSeriesMovies.exe
+C:\Dio\AppSeriesMovies\bin\Debug\netcoreapp3.1\AppSeriesMovies.deps.json
+C:\Dio\AppSeriesMovies\bin\Debug\netcoreapp3.1\AppSeriesMovies.runtimeconfig.json
+C:\Dio\AppSeriesMovies\bin\Debug\netcoreapp3.1\AppSeriesMovies.runtimeconfig.dev.json
+C:\Dio\AppSeriesMovies\bin\Debug\netcoreapp3.1\AppSeriesMovies.dll
+C:\Dio\AppSeriesMovies\bin\Debug\netcoreapp3.1\AppSeriesMovies.pdb
+C:\Dio\AppSeriesMovies\obj\Debug\netcoreapp3.1\AppSeriesMovies.dll
+C:\Dio\AppSeriesMovies\obj\Debug\netcoreapp3.1\AppSeriesMovies.pdb
+C:\Dio\AppSeriesMovies\obj\Debug\netcoreapp3.1\AppSeriesMovies.genruntimeconfig.cache
